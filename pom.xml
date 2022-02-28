@@ -1,0 +1,20 @@
+<project>
+
+<!-- pom xml version -->
+<modelVersion>4.0.0</modelVersion>
+
+
+<!-- company name -->
+<groupId>com.maventest</groupId>
+
+
+<!-- war file -->
+<artifactId>mymaven</artifactId>
+
+<!-- packaging jar file -->
+<packaging>jar</packaging>
+
+<!-- pom xml version -->
+<version>1.0</version>
+
+</project>
