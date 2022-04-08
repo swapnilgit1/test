@@ -12,7 +12,7 @@
 <artifactId>mymaven</artifactId>
 
 <!-- packaging jar file -->
-<packaging>war</packaging>
+<packaging>jar</packaging>
 
 <!-- pom xml version -->
 <version>1.0</version>
